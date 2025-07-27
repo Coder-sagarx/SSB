@@ -3,7 +3,7 @@
 
 
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=500%2B+LeetCode+Problems+Solved;800%2B+DSA+Problems+Across+Platforms;Mentor+%7C+Intern+%7C+Code+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=250%2B+LeetCode+Problems+Solved;800%2B+DSA+Problems+Across+Platforms;Mentor+%7C+Intern+%7C+Code+Lover" alt="Typing SVG" />
 </p>
 
 
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 Solved **250+** LeetCode problems  
-- ⚔️ Over **800+** total DSA problems across platforms (Codeforces, GFG, HackerRank, etc.)
+- ⚔️ Over **800+** total DSA problems across platforms (Codeforces, GFG, HackerRank,codingninja etc.)
  
 ---
 
@@ -36,7 +36,7 @@
 | LeetCode     | 250+             |
 | GFG          | 50+             |
 | HackerRank   | 50+             |
-| Codingninjas | 50+              |
+| Codingninjas | 80+              |
 
 ---
 
